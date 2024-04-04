@@ -17,7 +17,7 @@ const PageHeader = () => (
 		</h1>
 
 		<div className={styles.onPantheon}>
-			<span>Decoupled WordPress on </span>
+			<span>Decoupled WordPress on! </span>
 			<img
 				src={withPrefix('pantheon.png')}
 				alt="Pantheon Logo"

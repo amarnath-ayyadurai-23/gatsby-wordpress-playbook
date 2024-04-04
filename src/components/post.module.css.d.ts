@@ -8,5 +8,5 @@ export const prev: string;
 export const next: string;
 export const content: string;
 export const paragraphContent: string;
-export const hr: string;
+export const prose: string;
 export const nav: string;

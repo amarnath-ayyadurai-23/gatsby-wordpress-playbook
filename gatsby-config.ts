@@ -1,6 +1,7 @@
 import { GatsbyConfig } from 'gatsby';
 import dotenv from 'dotenv';
 import path from 'node:path';
+import 'dotenv/config';
 
 // initialize .env.development.local vars
 dotenv.config({
