@@ -3,5 +3,4 @@ export const gradientPlaceholder: string;
 export const container: string;
 export const card: string;
 export const cardTitle: string;
-export const cardImg: string;
 export const notFound: string;

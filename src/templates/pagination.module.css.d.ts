@@ -4,5 +4,3 @@ export const content: string;
 export const title: string;
 export const item: string;
 export const itemTitle: string;
-export const noData: string;
-export const link: string;
